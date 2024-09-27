@@ -1,0 +1,49 @@
+2024-09-27 23:02:06,770 - INFO - Script has started running.
+2024-09-27 23:02:07,486 - INFO - Connected to the database successfully!
+2024-09-27 23:02:07,612 - INFO - Table columns have been loaded successfully!
+2024-09-27 23:02:07,612 - INFO - Columns: ['patient', 'name', 'medicine', 'dosage', 'total']
+2024-09-27 23:02:07,612 - INFO - Enough Citodone   in stock. Current stock: 45
+2024-09-27 23:02:07,612 - INFO - Medicine Citodone   has been dispensed to patient Melisa Dawn
+2024-09-27 23:02:07,612 - INFO - Total amount of Citodone   in stock is: 43
+2024-09-27 23:02:07,627 - INFO - Enough Andole     in stock. Current stock: 52
+2024-09-27 23:02:07,627 - INFO - Medicine Andole     has been dispensed to patient Darko Malik
+2024-09-27 23:02:07,627 - INFO - Total amount of Andole     in stock is: 49
+2024-09-27 23:02:07,627 - INFO - Enough Rupurut    in stock. Current stock: 27
+2024-09-27 23:02:07,627 - INFO - Medicine Rupurut    has been dispensed to patient Alesandro Foo
+2024-09-27 23:02:07,627 - INFO - Total amount of Rupurut    in stock is: 25
+2024-09-27 23:02:07,627 - INFO - Enough Tylolhot   in stock. Current stock: 54
+2024-09-27 23:02:07,627 - INFO - Medicine Tylolhot   has been dispensed to patient Elena Yaani
+2024-09-27 23:02:07,627 - INFO - Total amount of Tylolhot   in stock is: 51
+2024-09-27 23:02:07,627 - INFO - Execution completed!
+2024-09-27 23:15:02,474 - INFO - Script has started running.
+2024-09-27 23:15:03,085 - INFO - Connected to the database successfully!
+2024-09-27 23:15:03,116 - INFO - Table columns have been loaded successfully!
+2024-09-27 23:15:03,116 - INFO - Columns: ['patient', 'name', 'medicine', 'dosage', 'total']
+2024-09-27 23:15:03,116 - INFO - Enough Citodone   in stock. Current stock: 37
+2024-09-27 23:15:03,116 - INFO - Medicine Citodone   has been dispensed to patient Melisa Dawn
+2024-09-27 23:15:03,116 - INFO - Total amount of Citodone   in stock is: 35
+2024-09-27 23:15:03,116 - INFO - Enough Andole     in stock. Current stock: 40
+2024-09-27 23:15:03,116 - INFO - Medicine Andole     has been dispensed to patient Darko Malik
+2024-09-27 23:15:03,116 - INFO - Total amount of Andole     in stock is: 37
+2024-09-27 23:15:03,116 - INFO - Enough Rupurut    in stock. Current stock: 19
+2024-09-27 23:15:03,116 - INFO - Medicine Rupurut    has been dispensed to patient Alesandro Foo
+2024-09-27 23:15:03,116 - INFO - Total amount of Rupurut    in stock is: 17
+2024-09-27 23:15:03,116 - INFO - Enough Tylolhot   in stock. Current stock: 42
+2024-09-27 23:15:03,116 - INFO - Medicine Tylolhot   has been dispensed to patient Elena Yaani
+2024-09-27 23:15:03,116 - INFO - Total amount of Tylolhot   in stock is: 39
+2024-09-27 23:15:03,116 - INFO - Execution completed!
+2024-09-27 23:33:49,510 - INFO - Script has started running.
+2024-09-27 23:33:50,123 - INFO - Connected to the database successfully!
+2024-09-27 23:33:50,154 - INFO - Table columns have been loaded successfully!
+2024-09-27 23:33:50,154 - INFO - Columns: ['patient', 'name', 'medicine', 'dosage', 'total']
+2024-09-27 23:33:50,154 - INFO - Enough Citodone   in stock. Current stock: 29
+2024-09-27 23:33:50,154 - INFO - Medicine Citodone   has been dispensed to patient Melisa Dawn
+2024-09-27 23:33:50,154 - INFO - Total amount of Citodone   in stock is: 27
+2024-09-27 23:33:50,154 - INFO - Enough Andole     in stock. Current stock: 15
+2024-09-27 23:33:50,154 - INFO - Medicine Andole     has been dispensed to patient Darko Malik
+2024-09-27 23:33:50,154 - INFO - Total amount of Andole     in stock is: 12
+2024-09-27 23:33:50,170 - WARNING - Not enough Rupurut    in stock. Current stock: 1
+2024-09-27 23:33:50,170 - INFO - Enough Tylolhot   in stock. Current stock: 21
+2024-09-27 23:33:50,170 - INFO - Medicine Tylolhot   has been dispensed to patient Elena Yaani
+2024-09-27 23:33:50,170 - INFO - Total amount of Tylolhot   in stock is: 18
+2024-09-27 23:33:50,170 - INFO - Execution completed!
